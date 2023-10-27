@@ -2,8 +2,7 @@
 background-color: rgb(0, 144, 255);    
 }
 .center{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: centeer;
+    align-items: center;
 }
