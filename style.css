@@ -1,3 +1,6 @@
+body{
+  background-color: rgb(179, 179, 179);
+}
 .lScreen{
   top: 50%;
   jusify: center;
